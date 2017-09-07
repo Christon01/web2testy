@@ -1,8 +1,5 @@
 console.log('Icon!!!')
 document.write('<h1> Hi Icon!</h1>')
-
-
-<!prompt coding>
 var questions = 3;
 var questionsLeft = ' [' + questions + ' questions left]';
 var adjective = prompt('Please type an adjective' + questionsLeft);
