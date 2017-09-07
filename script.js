@@ -1,2 +1,2 @@
 console.log('Icon!!!')
-document.write('<h1> Hi!</h1>')
+document.write('<h1> Hi Icon!</h1>')
