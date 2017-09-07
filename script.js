@@ -1,2 +1,2 @@
-console.log('hello world!')
+console.log('Icon!')
 document.write('<h1> Hi!</h1>')
